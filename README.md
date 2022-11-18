@@ -20,8 +20,6 @@
 
 [https://reputation.alienvault.com/reputation.generic](https://reputation.alienvault.com/reputation.generic)
 
-[http://malc0de.com/bl/IP_Blacklist.txt](http://malc0de.com/bl/IP_Blacklist.txt)
-
 [http://www.malwaredomainlist.com/hostslist/ip.txt](http://www.malwaredomainlist.com/hostslist/ip.txt)
 
 [http://talosintel.com/files/additional_resources/ips_blacklist/ip-filter.blf](http://talosintel.com/files/additional_resources/ips_blacklist/ip-filter.blf)
