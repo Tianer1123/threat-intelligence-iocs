@@ -45,3 +45,10 @@
 
 [http://www.joewein.net/dl/bl/from-bl.txt](http://www.joewein.net/dl/bl/from-bl.txt)
 
+## maltrail 静态库
+
+[https://github.com/stamparm/maltrail/tree/master/trails/static](https://github.com/stamparm/maltrail/tree/master/trails/static)
+
+## maltrail 网络库
+
+[https://github.com/stamparm/maltrail/tree/master/trails/feeds](https://github.com/stamparm/maltrail/tree/master/trails/feeds)
