@@ -6,12 +6,15 @@
 [http://vxvault.net/ViriList.php](http://vxvault.net/ViriList.php)
 
 [https://openphish.com/](https://openphish.com/)
+
 [https://openphish.com/feed.txt](https://openphish.com/feed.txt)
 
 [https://lists.blocklist.de/lists/all.txt](https://lists.blocklist.de/lists/all.txt)
+
 [http://www.blocklist.de/lists/all.txt](http://www.blocklist.de/lists/all.txt)
 
 [http://rules.emergingthreats.net/blockrules/compromised-ips.txt](http://rules.emergingthreats.net/blockrules/compromised-ips.txt)
+
 [http://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt](http://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt)
 
 [https://www.projecthoneypot.org/list_of_ips.php?rss=1](https://www.projecthoneypot.org/list_of_ips.php?rss=1) -- honeypot_ip
@@ -27,8 +30,11 @@
 [http://www.ciarmy.com/list/ci-badguys.txt](http://www.ciarmy.com/list/ci-badguys.txt)
 
 [http://www.nothink.org/blacklist/blacklist_malware_dns.txt](http://www.nothink.org/blacklist/blacklist_malware_dns.txt)
+
 [http://www.nothink.org/blacklist/blacklist_malware_http.txt](http://www.nothink.org/blacklist/blacklist_malware_http.txt)
+
 [http://www.nothink.org/blacklist/blacklist_malware_irc.txt](http://www.nothink.org/blacklist/blacklist_malware_irc.txt)
+
 [http://www.nothink.org/blacklist/blacklist_ssh_all.txt](http://www.nothink.org/blacklist/blacklist_ssh_all.txt)
 
 [https://check.torproject.org/exit-addresses](https://check.torproject.org/exit-addresses)
