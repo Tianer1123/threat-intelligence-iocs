@@ -47,6 +47,8 @@
 
 [http://www.joewein.net/dl/bl/from-bl.txt](http://www.joewein.net/dl/bl/from-bl.txt)
 
+[http://71.105.224.114:6969/rss_feed.xml](http://71.105.224.114:6969/rss_feed.xml)  -- 通过种子下载
+
 ## maltrail 静态库
 
 [https://github.com/stamparm/maltrail/tree/master/trails/static](https://github.com/stamparm/maltrail/tree/master/trails/static)
