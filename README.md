@@ -20,8 +20,6 @@
 
 [https://reputation.alienvault.com/reputation.generic](https://reputation.alienvault.com/reputation.generic)
 
-[https://zeustracker.abuse.ch/blocklist.php?download=ipblocklist](https://zeustracker.abuse.ch/blocklist.php?download=ipblocklist)
-
 [http://malc0de.com/bl/IP_Blacklist.txt](http://malc0de.com/bl/IP_Blacklist.txt)
 
 [http://www.malwaredomainlist.com/hostslist/ip.txt](http://www.malwaredomainlist.com/hostslist/ip.txt)
