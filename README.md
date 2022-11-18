@@ -1,2 +1,4 @@
 # threat-intelligence-iocs
-收集免费的威胁情报网站
+
+
+[https://myip.ms/files/blacklist/general/latest_blacklist.txt](https://myip.ms/files/blacklist/general/latest_blacklist.txt)
