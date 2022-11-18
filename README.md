@@ -20,7 +20,7 @@
 
 [https://reputation.alienvault.com/reputation.generic](https://reputation.alienvault.com/reputation.generic)
 
-[http://www.malwaredomainlist.com/hostslist/ip.txt](http://www.malwaredomainlist.com/hostslist/ip.txt)
+[http://www.malwaredomainlist.com/forums/index.php?topic=3270.0](http://www.malwaredomainlist.com/forums/index.php?topic=3270.0)
 
 [http://talosintel.com/files/additional_resources/ips_blacklist/ip-filter.blf](http://talosintel.com/files/additional_resources/ips_blacklist/ip-filter.blf)
 
