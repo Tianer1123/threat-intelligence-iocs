@@ -2,7 +2,7 @@
 
 ## 威胁情报地址
 
-[https://start.me/p/rxRbpo/ti](https://start.me/p/rxRbpo/ti)
+[https://start.me/p/rxRbpo/ti](https://start.me/p/rxRbpo/ti)  # ti 网站合集导航
 
 [https://myip.ms/files/blacklist/general/latest_blacklist.txt](https://myip.ms/files/blacklist/general/latest_blacklist.txt)
 
