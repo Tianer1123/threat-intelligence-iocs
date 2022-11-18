@@ -39,7 +39,7 @@
 
 [https://check.torproject.org/exit-addresses](https://check.torproject.org/exit-addresses)
 
-~~[http://www.okean.com/korea.txt] 该网站认为所有的中国和韩国的邮件都是垃圾邮件，将所有的中国和韩国 ip 过滤掉。~~
+~~http://www.okean.com/korea.txt 该网站认为所有的中国和韩国的邮件都是垃圾邮件，将所有的中国和韩国 ip 过滤掉。~~
 
 [http://www.badips.com/get/list/apache-wordpress/0?age=1000h](http://www.badips.com/get/list/apache-wordpress/0?age=1000h)
 
